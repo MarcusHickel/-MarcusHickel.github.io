@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () { new SweetScroll({});
       },
       "move": {
         "enable": true,
-        "speed": 3.206824121731046,
+        "speed": 1,
         "direction": "none",
         "random": false,
         "straight": false,

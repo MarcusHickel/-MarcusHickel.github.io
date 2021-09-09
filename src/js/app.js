@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       "move": {
         "enable": true,
-        "speed": 10,
+        "speed": 1,
         "direction": "none",
         "random": false,
         "straight": false,
